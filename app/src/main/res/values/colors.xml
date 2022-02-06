@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="__mem_text_color_primary">#e7eaf0</color>
+    <color name="__mem_text_color_02">#b9c1d4</color>
+
+    <color name="__mem_text_color_04">#383d4d</color>
+    <color name="__mem_ui_color_01">#1b1d24</color>
+    <color name="__mem_ui_color_02">#222429</color>
+    <color name="__mem_ui_color_03">#2a2f3b</color>
+    <color name="__mem_ui_color_04">#383d4d</color>
+
+    <color name="__mem_ui_color_05">#929BB0</color>
+    <color name="__mem_ui_color_07">#ffffff</color>
+    <color name="__mem_ui_primary">#3aa9b5</color>
+    <color name="__mem_text_color_noactive">#727583</color>
+    <color name="__mem_text_color_green">#50d779</color>
+
+    <color name="__mem_text_color_error">#ff8b82</color>
+    <color name="__mem_interactive_color_01">#2a2f3b</color>
+    <color name="__mem_interactive_color_02">#3f41eb</color>
+    <color name="__mem_interactive_color_04">#929bb0</color>
+    <color name="__mem_interactive_color_green">#46c292</color>
+
+    <color name="__mem_interactive_color_red">#f8796b</color>
+    <color name="__mem_interactive_color_red_tint">#F16758</color>
+    <color name="__mem_interactive_color_bg_green">#304236</color>
+    <color name="__mem_interactive_color_bg_red">#392634</color>
+    <color name="__mem_button_color_primary">#3aa9b5</color>
+    <color name="__mem_button_color_primary_hover">#4ccad8</color>
+
+    <color name="__mem_button_color_primary_active">#51b7c2</color>
+    <color name="__mem_button_color_secondary_hover">#1b1e20</color>
+    <color name="__mem_button_color_secondary_active">#353e4b</color>
+    <color name="__mem_color_ui_background">#14161b</color>
+    <color name="__mem_text_color_accent">#c398fa</color>
+
+    <color name="__mem_light_ui_color_01">#f3f7f9</color>
+    <color name="__mem_light_interactive_color_01">#181a27</color>
+
+    <!-- problem colors origin -->
+    <color name="__mem_text_color_blue">#769aff</color>
+    <color name="__mem_interactive_color_03">#e7eaf0</color>
+
+</resources>
